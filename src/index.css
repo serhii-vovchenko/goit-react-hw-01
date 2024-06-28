@@ -38,3 +38,10 @@ img {
     display: block;
     max-width: 100%;
 }
+
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 80px;
+}
